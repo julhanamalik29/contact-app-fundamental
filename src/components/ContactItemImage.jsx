@@ -1,3 +1,4 @@
+import PropTypes from "prop-types";
 import React from "react";
 
 function ContactItemImage({ imageUrl }) {
@@ -7,5 +8,9 @@ function ContactItemImage({ imageUrl }) {
     </div>
   );
 }
+
+ContactItemImage.propTypes = {
+  imageUrl: PropTypes.string.isRequired,
+};
 
 export default ContactItemImage;
