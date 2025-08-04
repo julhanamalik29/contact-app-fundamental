@@ -1,21 +1,21 @@
 let contacts = [
   {
     id: 1,
-    name: "Dimas Saputra",
-    tag: "dimasmds",
-    imageUrl: "/images/dimasmds.jpeg",
+    name: "Julhan Abdul Malik",
+    tag: "julhanamalik",
+    imageUrl: "/images/julhan1.jpg",
   },
   {
     id: 2,
-    name: "Arif Faizin",
-    tag: "arifaizin",
-    imageUrl: "/images/arifaizin.jpeg",
+    name: "Julhan",
+    tag: "judul",
+    imageUrl: "/images/julhan2.jpg",
   },
   {
     id: 3,
-    name: "Rahmat Fajri",
-    tag: "rfajri27",
-    imageUrl: "/images/rfajri27.jpeg",
+    name: "Amelinda Renjani",
+    tag: "amelinda",
+    imageUrl: "/images/julhan3.jpeg",
   },
 ];
 
